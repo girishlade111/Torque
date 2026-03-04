@@ -333,3 +333,7 @@ Timestamp: 2026-03-04T11:35:32.599Z
 ---
 Commit 19: refactor: extract email service module
 Timestamp: 2026-03-04T11:35:34.654Z
+
+---
+Commit 20: style: apply email design best practices
+Timestamp: 2026-03-04T11:35:36.978Z
