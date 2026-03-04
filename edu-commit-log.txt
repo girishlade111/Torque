@@ -325,3 +325,7 @@ Timestamp: 2026-03-04T11:35:28.513Z
 ---
 Commit 17: ci: configure email delivery monitoring
 Timestamp: 2026-03-04T11:35:30.555Z
+
+---
+Commit 18: docs: update sender policy configuration
+Timestamp: 2026-03-04T11:35:32.599Z
