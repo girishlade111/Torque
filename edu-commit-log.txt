@@ -61,3 +61,7 @@ Timestamp: 2026-03-04T11:27:39.241Z
 ---
 Commit 1: docs: update command reference
 Timestamp: 2026-03-04T11:29:03.606Z
+
+---
+Commit 2: style: apply POSIX CLI conventions
+Timestamp: 2026-03-04T11:29:05.670Z
