@@ -297,3 +297,7 @@ Timestamp: 2026-03-04T11:35:13.596Z
 ---
 Commit 10: feat: build subscriber segmentation
 Timestamp: 2026-03-04T11:35:15.596Z
+
+---
+Commit 11: test: add email template tests
+Timestamp: 2026-03-04T11:35:18.076Z
