@@ -421,3 +421,7 @@ Timestamp: 2026-03-04T11:36:19.374Z
 ---
 Commit 41: refactor: extract email service module
 Timestamp: 2026-03-04T11:36:21.562Z
+
+---
+Commit 1: feat: add unsubscribe handling
+Timestamp: 2026-03-04T11:37:39.593Z
